@@ -1,9 +1,13 @@
 body {
   background-color:#FFF8DC;
-  font-family:marker felt,fantasy;
-  margin-right: 0px;
+  font-family:american typewriter,serif;
+  margin-left: 50px;
+  letter-spacing: 1px;
+  font-size: 15px;
 }
 h1 {
   text-align:center;
-  font-family:marker felt,fantasy;
+  font-family:american typewriter,serif;
+  font-size: 30px;
+  letter-spacing: 2px;
 }
