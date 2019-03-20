@@ -9,3 +9,7 @@ div.container {
   font-family: Trattatello, fantasy;
   background-image: url('file:///Users/Isobel/Documents/coding_course/group_project/group-project/images-index/yellow.jpg');
 }
+
+p.lead {
+  font-size: 25px;
+}
