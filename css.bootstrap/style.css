@@ -18,3 +18,7 @@ ul li:before {
   list-style-image: url("file:///Users/Isobel/Downloads/pen%20copy.gif");
   font-size: 10pt;
 }
+
+div.card-deck {
+  display: flex;
+}
