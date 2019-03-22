@@ -1,6 +1,8 @@
 div.container {
   padding: 10px 10px 10px 10px;
   margin-left: 50px;
+  font-family: Georgia, serif;
+  line-height: 2.5;
 }
 
 .starter-template {
@@ -12,11 +14,6 @@ div.container {
 
 p.lead {
   font-size: 25px;
-}
-
-ul li:before {
-  list-style-image: url("file:///Users/Isobel/Downloads/pen%20copy.gif");
-  font-size: 10pt;
 }
 
 div.card-deck {
