@@ -19,3 +19,9 @@ p.lead {
 div.card-deck {
   display: flex;
 }
+
+div.col-sm {
+  align-items:center;
+  justify-content:center;
+  flex-direction:column;
+}
