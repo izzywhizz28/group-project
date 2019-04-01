@@ -12,7 +12,7 @@ div.container {
   background-image: url('file:///Users/Isobel/Documents/coding_course/group_project/group-project/images-index/yellow.jpg');
 }
 
-p.lead {
+p.lead,p.intro {
   font-size: 25px;
 }
 
@@ -20,8 +20,7 @@ div.card-deck {
   display: flex;
 }
 
-div.col-sm {
-  align-items:center;
-  justify-content:center;
-  flex-direction:column;
+p#intro {
+  margin-left: 50px;
+  font-family: Georgia,serif;
 }
